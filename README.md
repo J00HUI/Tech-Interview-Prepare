@@ -16,12 +16,12 @@
 * #### 데이터베이스
 * #### 네트워크
 * #### 자료구조
-- 연결리스트(LinkedList)
-- 트리, 트라이(Tries), 그래프
-- 스택 & 큐
-- 힙(Heaps)
-- Vector / ArrayList
-- 해시테이블
+   - 연결리스트(LinkedList)
+   - 트리, 트라이(Tries), 그래프
+   - 스택 & 큐
+   - 힙(Heaps)
+   - Vector / ArrayList
+   - 해시테이블
 * #### 알고리즘
   * BFS (너비 우선 탐색)
   * DFS (깊이 우선 탐색)
