@@ -11,7 +11,8 @@
 </br>
 
 ## Computer Science
-
+- #### 컴퓨터 구조 (Computer Architecture)
+   - [컴퓨터의 구성](CS/컴퓨터구조/컴퓨터구성.md)
 - #### 운영체제
 - #### 데이터베이스
 - #### 네트워크
@@ -28,8 +29,6 @@
    - 이진 탐색
    - 병합 정렬 (Merge Sort)
    - 퀵 정렬
-- #### 컴퓨터 구조 (Computer Architecture)
-   - [컴퓨터의 구성](CS/컴퓨터구조/컴퓨터구성.md)
 
 </br>
 
