@@ -85,6 +85,8 @@
 * AWS
 </br>
 
+<a href="https://www.google.co.kr/" target="_blank"> 구글로 이동하기 </a>
+
 ---
 ### Reference
 
