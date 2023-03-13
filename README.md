@@ -85,12 +85,8 @@
 * AWS
 </br>
 
-<a href="https://www.google.co.kr/" target="_blank"> 구글로 이동하기 </a>
-
 ---
 ### Reference
-
-* <a href="https://github.com/JaeYeopHan/Interview_Question_for_Beginner" target="_blank">JaeYeopHan/Interview_Question_for_Beginner(15.7k)
 * [JaeYeopHan/Interview_Question_for_Beginner(15.7k)](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 * [👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖(9.9k)](https://github.com/gyoogle/tech-interview-for-developer)
 * [📢🙍 tech interview(3.6k)](https://github.com/WeareSoft/tech-interview)
