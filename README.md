@@ -88,7 +88,7 @@
 ---
 ### Reference
 
-* [JaeYeopHan/Interview_Question_for_Beginner(15.7k)](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
+* [JaeYeopHan/Interview_Question_for_Beginner(15.7k)](https://github.com/JaeYeopHan/Interview_Question_for_Beginner){:target="_blank"}
 * [👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖(9.9k)](https://github.com/gyoogle/tech-interview-for-developer)
 * [📢🙍 tech interview(3.6k)](https://github.com/WeareSoft/tech-interview)
 * [💻 신입 개발자로서 준비를 하기 위해 지식을 정리하는 공간 👨‍💻 (3.4k)](https://github.com/WooVictory/Ready-For-Tech-Interview)
