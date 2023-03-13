@@ -85,7 +85,8 @@
 * AWS
 </br>
 
-[새창](http://www.naver.com)(:target="_blank")
+[새 탭에서 열기](https://www.google.com/){:target="_blank"}
+
 </br>
 
 
