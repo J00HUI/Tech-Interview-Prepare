@@ -88,8 +88,8 @@
 ---
 ### Reference
 
-https://github.com/gyoogle/tech-interview-for-developer </br>
-https://github.com/parker1609/web-development-encyclopedia </br>
-https://github.com/SSAFY-CS-STUDY/Tech_interview </br>
-https://github.com/cheese10yun/TIL </br>
-https://github.com/JaeYeopHan/Interview_Question_for_Beginner </br>
+* [JaeYeopHan/Interview_Question_for_Beginner(15.7k)](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
+* [👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖(9.9k)](https://github.com/gyoogle/tech-interview-for-developer)
+* [:octocat: Today I Learned. 그날 그날 모든 활동들을 정리(734)](https://github.com/cheese10yun/TIL)
+* [🔍 개발자에게 필요한 CS 지식 - 내용 정리 및 질의응답(332)](https://github.com/SSAFY-CS-STUDY/Tech_interview)
+* [내가 만드는 웹 개발 백과사전(12)](https://github.com/parker1609/web-development-encyclopedia)
